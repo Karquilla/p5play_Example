@@ -1,6 +1,8 @@
 // This is an P5.js and p5play.js example program
 // https://p5js.org/
-// https://p5play.org/index.html
+// https://p5play.org/
+
+//    GNU V3 Copyright (C) <2023> <Kyle Arquilla> contact@ kaarquilla@gmail.com
 
 // already setup with libraries to use
 // feel free to delete program in sketch to build your own
@@ -14,11 +16,6 @@
 // var number = 10
 // let number = 10
 // number = 10
-
-//global variables. will change type when reassigned
-rect = 0
-circ = 0
-floor = 0
 
 // setup() is a built in function
 //runs once and only once when page is loaded
